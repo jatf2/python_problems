@@ -127,7 +127,7 @@ class Board:
         
         return True
         
-def solution(B):
+def Assassin(B):
     # write your code in Python 3.6
     return Board(B).sol()
     
